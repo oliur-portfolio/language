@@ -1,0 +1,22 @@
+{
+    "products": {
+        "cart": "Add to Cart"
+    },
+    "blogCards": [
+        {
+            "image": "/images/team-1.png",
+            "title": "Blog Post 1",
+            "description": "This is the first blog post."
+        },
+        {
+            "image": "/images/team-2.png",
+            "title": "Blog Post 2",
+            "description": "This is the second blog post."
+        },
+        {
+            "image": "/images/team-3.png",
+            "title": "Blog Post 3",
+            "description": "This is the third blog post."
+        }
+    ]
+}

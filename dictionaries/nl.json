@@ -1,0 +1,22 @@
+{
+    "products": {
+        "cart": "Toevoegen aan Winkelwagen"
+    },
+    "blogCards": [
+        {
+            "image": "/images/team-1.png",
+            "title": "Blogbericht 1",
+            "description": "Dit is het eerste blogbericht."
+        },
+        {
+            "image": "/images/team-2.png",
+            "title": "Blogbericht 2",
+            "description": "Dit is het tweede blogbericht."
+        },
+        {
+            "image": "/images/team-3.png",
+            "title": "Blogbericht 3",
+            "description": "Dit is het derde blogbericht."
+        }
+    ]
+}
