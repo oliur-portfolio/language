@@ -11,8 +11,6 @@ function getLocale(request) {
 
     const locales = i18n.locales;
 
-    console.log(negotiatorHeaders);
-
     let languages = new Negotiator({ headers: negotiatorHeaders }).languages(
         locales
     );

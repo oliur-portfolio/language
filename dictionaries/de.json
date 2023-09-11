@@ -1,0 +1,22 @@
+{
+    "products": {
+        "cart": "In den Warenkorb legen"
+    },
+    "blogCards": [
+        {
+            "image": "/images/team-1.png",
+            "title": "Blogbeitrag 1",
+            "description": "Dies ist der erste Blogbeitrag."
+        },
+        {
+            "image": "/images/team-2.png",
+            "title": "Blogbeitrag 2",
+            "description": "Dies ist der zweite Blogbeitrag."
+        },
+        {
+            "image": "/images/team-3.png",
+            "title": "Blogbeitrag 3",
+            "description": "Dies ist der dritte Blogbeitrag."
+        }
+    ]
+}
